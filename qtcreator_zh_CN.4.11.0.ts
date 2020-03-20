@@ -38584,7 +38584,7 @@ Enable this if you plan to create 32-bit x86 binaries without using a dedicated 
         <location filename="plugins/projectexplorer/jsonwizard/jsonprojectpage.cpp" line="76"/>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks and using only ascii chars.</extracomment>
-        <translation>未命名</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
